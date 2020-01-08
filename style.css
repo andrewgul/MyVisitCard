@@ -81,6 +81,10 @@ header {
     background-image: url(img/web.png);
 }
 
+.skills {
+    background-image: url(img/skills.png);
+}
+
 .info {
     font-family: 'Rubik', sans-serif;
     height: 220px;
